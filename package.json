@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "node index.js",
     "health": "curl -f http://localhost:$PORT/health || exit 1"
   },
   "dependencies": {
@@ -18,4 +17,5 @@
   "author": "",
   "license": "MIT"
 }
+
 

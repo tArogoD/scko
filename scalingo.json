@@ -3,5 +3,19 @@
   "description": "scko",
   "logo": "https://scalingo.com/logo.svg",
   "repository": "https://github.com/tArogoD/scko",
-  "website": "https://scalingo.com"
+  "website": "https://scalingo.com",
+    "env": {
+    "C_T": {
+      "description": "C_T",
+      "value": "A"
+    },    
+    "K_K": {
+      "description": "K_K",
+      "value": "B"
+    },
+    "C_D": {
+      "description": "C_D",
+      "value": "C"
+    }    
+  }
 }

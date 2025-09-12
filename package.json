@@ -9,8 +9,7 @@
     "health": "curl -f http://localhost:$PORT/health || exit 1"
   },
   "dependencies": {
-    "ws": "^8.13.0",
-    "axios": "^1.8.4"
+    "ws": "^8.13.0"
   },
   "engines": {
     "node": ">=16"
@@ -19,3 +18,4 @@
   "author": "",
   "license": "MIT"
 }
+
